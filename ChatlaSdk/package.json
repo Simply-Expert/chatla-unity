@@ -1,0 +1,10 @@
+{
+  "name": "com.chatla.sdk",
+  "version": "1.0.2",
+  "displayName": "Chatla SDK",
+  "description": "A Unity SDK for sending events to Chatla.",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  }
+}
